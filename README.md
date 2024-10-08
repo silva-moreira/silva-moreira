@@ -6,7 +6,8 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silva-moreira)](https://github.com/silva-moreira&show_icons=true&theme=transparent)
+![silva-moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=silva-moreira&show_icons=true&theme=transparent)
+
 
 
 ## 🚀 Linguagens:
